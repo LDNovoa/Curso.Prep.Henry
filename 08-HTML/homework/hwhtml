@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>Tarea HTML de Lucas</title>
+        <link rel="stylesheet" href="styles.css">
+
+        <style>
+          
+
+        </style>
+    </head>
+
+    <body>
+        <div class="divClass">
+            <h1>Lucas</h1>
+            <h3>Henry</h3>
+            <h4>tarea de HTML/CSS</h4>
+        </div>
+        
+        <div class="divClass">
+            <span id="spanid">Mi comida favorita es el vacío al horno con papas</span>
+            <a href ="https://elferroviarioparrilla.com/">Link a Resto</a>
+        </div>
+
+        <div id="thirdDiv">
+            <ul>
+                <li><img src="https://i.pinimg.com/originals/6f/62/c6/6f62c6916bc74a21ea5c76f2333f68b5.jpg"></li>
+                <li><img src="https://cocinerosargentinos.com/content/recipes/500x500/vacio-al-horno-con-papas-estilo-criollo.4274.jpg"></li>
+            </ul>
+        </div>
+    </body> 
+
+
+</html>
